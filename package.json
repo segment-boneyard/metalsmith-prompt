@@ -2,12 +2,12 @@
   "name": "metalsmith-prompt",
   "description": "A metalsmith plugin to prompt the user for series of answers and add them to the global metadata.",
   "repository": "git://github.com/segmentio/metalsmith-prompt.git",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
     "extend": "^1.2.1",
-    "prompt-for": "^0.0.3"
+    "prompt-for": "^0.2.0"
   },
   "devDependencies": {
     "mocha": "1.x",
