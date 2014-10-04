@@ -1,4 +1,8 @@
 
+0.0.8 - October 4, 2014
+-----------------------
+* bump `prompt-for` to `0.5.0` for list support
+
 0.0.7 - May 28, 2014
 --------------------
 * bump `prompt-for` to `0.4.1`
